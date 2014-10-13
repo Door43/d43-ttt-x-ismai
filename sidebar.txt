@@ -10,6 +10,10 @@
 
   * [[ttt-x-ismai:obs|Open Bible Stories (ttt-x-ismai)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ttt-x-ismai|d43-ttt-x-ismai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ttt-x-ismai/archive/master.zip|d43-ttt-x-ismai.zip]]
+
 **Recent Changes**
 {{changes>ns = ttt-x-ismai}}
 
