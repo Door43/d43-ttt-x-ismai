@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = ttt-x-ismai:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:ttt-x-ismai:obs:status}}
-
